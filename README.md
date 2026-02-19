@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love solving real-world problems through code.
 
 ### 🛠️ Languages and Tools:
-- HTML | CSS | JavaScript | Python | C++
+- HTML | CSS | JavaScript | Python | C
 - Git & GitHub
 - Visual Studio Code
 
