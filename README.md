@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently learning **Web Development** and **Python**.
 - 🚀 I’m building my skills to become a Full Stack Developer.
-- 🎯 2025 Goals: Master DSA, contribute to Open Source, and build awesome projects.
-- ⚡ Fun fact: I love solving real-world problems through code.
-
+- 
 ### 🛠️ Languages and Tools:
 - HTML | CSS | JavaScript | Python | C
 - Git & GitHub
